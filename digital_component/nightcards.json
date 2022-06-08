@@ -1,0 +1,15 @@
+{
+    "cards":
+    [
+        { "cardname": "Calm", "text": "The crew feel rested. Carry on!" },
+        { "cardname": "Pirate", "text": "Pirates in sight! Keep moving to avoid being boarded. - If pirates are on players tile at end of day, they steal all the Island-food. - At the start of each day the pirates will keep chasing if they are on an adjacent tile. If not, they give up." },
+        { "cardname": "Raided", "text": "You were raided by hungry seagulls -1,  choose resource type" },
+        { "cardname": "Shallow", "text": "Shallow water! -Place shallow water tokens on any undiscovered tile adjacent to the boat. -Scout a tile to remove the token. Then you may cross" },
+        { "cardname": "Goods", "text": "Goods from the GODS. A barrel of food is floating beside the boat. Each player gains +2 of each resource" },
+        { "cardname": "Storm Changes N", "text": "Weather forecast, shows storm heading North" },
+        { "cardname": "Storm Changes E", "text": "Weather forecast, shows storm heading East" },
+        { "cardname": "Storm Changes S", "text": "Weather forecast, shows storm heading South" },
+        { "cardname": "Storm Changes W", "text": "Weather forecast, shows storm heading West" }
+
+    ]
+}
